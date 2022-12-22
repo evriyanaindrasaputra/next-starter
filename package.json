@@ -12,8 +12,8 @@
     "start": "next start",
     "lint": "next lint",
     "release": "standard-version",
-    "prettier": "prettier --write --ignore-unknown .",
-    "prettier:check": "prettier --check --ignore-unknown .",
+    "prettier": "prettier --write ./**/*.{ts,tsx}",
+    "prettier:check": "prettier --check ./**/*.{ts,tsx}",
     "test": "yarn prettier:check && yarn lint"
   },
   "dependencies": {
