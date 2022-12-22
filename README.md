@@ -10,9 +10,9 @@ or use this template and clone then run :
 
 ```bash
 # install dependency
-pnpm install
+yarn install
 # run local server development
-pnpm dev
+yarn dev
 ```
 
 ### Features
