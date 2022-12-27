@@ -15,7 +15,8 @@
     "prettier": "prettier --write ./**/*.{ts,tsx}",
     "prettier:check": "prettier --check ./**/*.{ts,tsx}",
     "test": "jest --watch",
-    "test:ci": "jest --ci"
+    "test:ci": "jest --ci",
+    "test:e2e": "playwright test"
   },
   "dependencies": {
     "@next/font": "13.1.1",
@@ -29,6 +30,7 @@
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",
+    "@playwright/test": "^1.29.1",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@types/jest": "^29.2.4",
