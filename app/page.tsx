@@ -8,7 +8,7 @@ export default function Home() {
     <section>
       <main className="mx-auto flex max-w-5xl flex-col gap-3  px-2 pt-20 md:gap-5 md:px-1">
         <h1 className="text-center text-4xl font-bold tracking-wider text-emerald-400 sm:text-6xl">
-          Wellcome to Next-Starter
+          Welcome to Next-Starter
         </h1>
         <p className={cn("px-1 text-center text-sm md:text-lg")}>
           This is just a starter template, made using Next.js App Dir{" "}
