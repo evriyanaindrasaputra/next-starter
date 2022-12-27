@@ -27,7 +27,7 @@ jobs:
 
       - name: 📦 Restore cached Playwright dependencies
         id: cache-playwright
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: ~/.cache/ms-playwright
           key: ${{ runner.os }}-playwright-${{ hashFiles('**/package-lock.json')
