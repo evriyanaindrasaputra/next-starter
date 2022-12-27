@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.5](https://github.com/evriyanaindrasaputra/next-starter/compare/v0.1.4...v0.1.5) (2022-12-27)
+
+### Features
+
+- add e2e testing ([6ee4806](https://github.com/evriyanaindrasaputra/next-starter/commit/6ee4806e76f3ef1cb0c2d73f3343e54c6cfe684e))
+- add jest and RTL ([770d505](https://github.com/evriyanaindrasaputra/next-starter/commit/770d505612878ca53c71713e130bdbc6caf4da11))
+- add next-seo and default seo ([0c955f7](https://github.com/evriyanaindrasaputra/next-starter/commit/0c955f70647953c10060398a5d1d40b8c4462505))
+- default seo ([8ef31f9](https://github.com/evriyanaindrasaputra/next-starter/commit/8ef31f979fb6c1775d9c7c694a6a11a02eaf70d6))
+- setup jest ([6e07c03](https://github.com/evriyanaindrasaputra/next-starter/commit/6e07c03d43d2ca93ae37c6a9fa88c8fe535d0077))
+
 ### [0.1.4](https://github.com/evriyanaindrasaputra/next-starter/compare/v0.1.3...v0.1.4) (2022-12-26)
 
 ### Bug Fixes
