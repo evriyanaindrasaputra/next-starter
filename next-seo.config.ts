@@ -2,29 +2,36 @@
 import type { NextSeoProps } from "next-seo";
 
 export const NEXT_SEO_DEFAULT: NextSeoProps = {
-  title: "Title A",
-  description: "Description A",
+  title: "Next Starter",
+  description: "Next Starter Eindrasap",
   openGraph: {
     type: "website",
     locale: "en_IE",
-    url: "https://www.url.ie/a",
-    title: "Open Graph Title A",
-    description: "Open Graph Description A",
+    url: "https://next-starter.init.my.id/",
+    title: "Next Starter Eindrasap",
+    description: "Next Starter template typescript tailwind",
     images: [
       {
-        url: "https://www.test.ie/og-image-a-01.jpg",
+        url: "https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png",
         width: 800,
         height: 600,
         alt: "Og Image Alt A",
         type: "image/jpeg",
-        secureUrl: "https://www.test.ie/secure-og-image-a-01.jpg",
+        secureUrl:
+          "https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png",
       },
     ],
-    siteName: "SiteName A",
+    siteName: "eindrasap-next-starter",
   },
   twitter: {
     handle: "@handlea",
-    site: "@sitea",
+    site: "@site",
     cardType: "summary_large_image",
   },
+  additionalLinkTags: [
+    {
+      rel: "icon",
+      href: "https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png",
+    },
+  ],
 };

@@ -23,7 +23,7 @@ export default function RootLayout({
         <NextSeo
           useAppDir={true}
           themeColor="#73fa97"
-          titleTemplate="%s | Next SEO"
+          titleTemplate="%s | Eindrasap"
         />
       </head>
       <body>{children}</body>
