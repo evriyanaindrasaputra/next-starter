@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.6](https://github.com/evriyanaindrasaputra/next-starter/compare/v0.1.5...v0.1.6) (2023-02-06)
+
+### Bug Fixes
+
+- **deps:** update nextjs monorepo to v13.1.2 ([198dcbb](https://github.com/evriyanaindrasaputra/next-starter/commit/198dcbb54774c9faa21894fcc1d6bc0e36d17748))
+- **deps:** update nextjs monorepo to v13.1.4 ([d3414ea](https://github.com/evriyanaindrasaputra/next-starter/commit/d3414ea8294c2097698728f7f424333b8d3fca82))
+- **deps:** update nextjs monorepo to v13.1.5 ([47bba03](https://github.com/evriyanaindrasaputra/next-starter/commit/47bba03e1f02474ef260d717b75a8ad9acd587d9))
+- **deps:** update nextjs monorepo to v13.1.6 ([85baa6e](https://github.com/evriyanaindrasaputra/next-starter/commit/85baa6e4f388629f94dca2eea81fec2bebfb3260))
+
 ### [0.1.5](https://github.com/evriyanaindrasaputra/next-starter/compare/v0.1.4...v0.1.5) (2022-12-27)
 
 ### Features
